@@ -1,0 +1,17 @@
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\WindowsFormsApplication\bin\Debug\MathFunctions.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\WindowsFormsApplication\bin\Debug\MathFunctions.pdb
+H:\кдз\Сероусов_2\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+H:\кдз\Сероусов_2\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+H:\кдз\Сероусов_2\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\AlfaSens\Desktop\Мусор\Part1\кдз\Сероусов_2\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\AlfaSens\Desktop\Мусор\Part1\кдз\Сероусов_2\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\AlfaSens\Desktop\Мусор\Part1\кдз\Сероусов_2\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb

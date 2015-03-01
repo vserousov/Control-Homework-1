@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFunctions", "MathFunctions\MathFunctions.csproj", "{91A5903B-8D5F-46F1-8C8F-E5CEA4289363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication", "WindowsFormsApplication\WindowsFormsApplication.csproj", "{D5728E45-E94F-498C-84A1-5DF298868A27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A5903B-8D5F-46F1-8C8F-E5CEA4289363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A5903B-8D5F-46F1-8C8F-E5CEA4289363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A5903B-8D5F-46F1-8C8F-E5CEA4289363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A5903B-8D5F-46F1-8C8F-E5CEA4289363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5728E45-E94F-498C-84A1-5DF298868A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5728E45-E94F-498C-84A1-5DF298868A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5728E45-E94F-498C-84A1-5DF298868A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5728E45-E94F-498C-84A1-5DF298868A27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\MathFunctions\bin\Debug\MathFunctions.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\MathFunctions\bin\Debug\MathFunctions.pdb
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\MathFunctions\obj\Debug\MathFunctions.csprojResolveAssemblyReference.cache
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\MathFunctions\obj\Debug\MathFunctions.dll
+C:\Users\AlfaSens\documents\visual studio 2013\Projects\MathFunctions\MathFunctions\obj\Debug\MathFunctions.pdb
